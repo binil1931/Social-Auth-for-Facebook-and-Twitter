@@ -14,5 +14,5 @@
              "The Facebook SDK for Android makes it easier and faster to develop Facebook integrated 
                                              Android apps.",  "https://www.facebook.com",               
                                             "http://carbonfreepress.gr/images/facebook.png", new MessageListener());                
-   }
+
 ```
